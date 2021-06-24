@@ -1,6 +1,6 @@
-## Nathan Everett
-My website - neverett.co.uk
-LinkedIn - https://www.linkedin.com/in/nathan-everett-850936214/
+## Nathan Everett  
+My website - neverett.co.uk  
+LinkedIn - https://www.linkedin.com/in/nathan-everett-850936214/  
 
 We worked on this in a group project in the second year of University!  
 The below repos are a forked version of the final project:  
