@@ -10,4 +10,4 @@ https://github.com/neverett8fr/COMP2003-2020-GroupF-Database
 https://github.com/neverett8fr/COMP2003-2020-GroupF-API  
   
 Movie Google - https://neverett.co.uk/moogle/  
-(Moogle is a little slow)  
+(Moogle is a little slow) - API currently down for site  
